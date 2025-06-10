@@ -9,18 +9,18 @@
 
 ## :man_student: Público-alvo
 
-- Universitários
+- Universitáriosssss
 - Jovens investidores
 - Iniciantes no mercado financeiro
 - Pessoas que querem controle mas não têm muito conhecimento técnico
 
 ## :gear: Tecnologias previstas
 
-- **Frontend:** 
-- **Backend:** 
-- **Banco de dados:** 
-- **Gráficos:** 
-- **Autenticação:** 
+- **Frontend:**
+- **Backend:**
+- **Banco de dados:**
+- **Gráficos:**
+- **Autenticação:**
 
 ## :construction: Status
 
