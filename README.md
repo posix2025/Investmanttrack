@@ -7,7 +7,7 @@
 - Exibir dashboards claros com valorização/desvalorização
 - Organizar a carteira de forma acessível, sem depender de planilhas
 
-## :man_student: Público-alvoo
+## :man_student: Público-alvo
 
 - Universitários
 - Jovens investidores
