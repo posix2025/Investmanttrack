@@ -9,7 +9,7 @@
 
 ## :man_student: Público-alvo
 
-- Universitáriosssss
+- Universitários
 - Jovens investidores
 - Iniciantes no mercado financeiro
 - Pessoas que querem controle mas não têm muito conhecimento técnico
